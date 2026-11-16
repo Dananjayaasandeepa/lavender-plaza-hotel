@@ -1,0 +1,1 @@
+module.exports={content:["./app.src.jsx","./index.html"],theme:{extend:{}},plugins:[]};
